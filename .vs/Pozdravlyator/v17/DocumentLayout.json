@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Pozdravlyator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69AA9280-B87F-DEF3-6A37-41F9E6EB4CFD}|Pozdravlyator.csproj|c:\\users\\user\\pozdravlyator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AA9280-B87F-DEF3-6A37-41F9E6EB4CFD}|Pozdravlyator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AA9280-B87F-DEF3-6A37-41F9E6EB4CFD}|Pozdravlyator.csproj|c:\\users\\user\\pozdravlyator\\birthdaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AA9280-B87F-DEF3-6A37-41F9E6EB4CFD}|Pozdravlyator.csproj|solutionrelative:birthdaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AA9280-B87F-DEF3-6A37-41F9E6EB4CFD}|Pozdravlyator.csproj|c:\\users\\user\\pozdravlyator\\birthdayentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AA9280-B87F-DEF3-6A37-41F9E6EB4CFD}|Pozdravlyator.csproj|solutionrelative:birthdayentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Pozdravlyator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Pozdravlyator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAxwBYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:01:00.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BirthdayManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Pozdravlyator\\BirthdayManager.cs",
+              "RelativeDocumentMoniker": "BirthdayManager.cs",
+              "ToolTip": "C:\\Users\\User\\Pozdravlyator\\BirthdayManager.cs",
+              "RelativeToolTip": "BirthdayManager.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:00:34.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BirthdayEntry.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Pozdravlyator\\BirthdayEntry.cs",
+              "RelativeDocumentMoniker": "BirthdayEntry.cs",
+              "ToolTip": "C:\\Users\\User\\Pozdravlyator\\BirthdayEntry.cs",
+              "RelativeToolTip": "BirthdayEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:59:54.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

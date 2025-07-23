@@ -1,0 +1,14 @@
+C:\Users\User\Pozdravlyator\bin\Debug\net9.0\Pozdravlyator.exe
+C:\Users\User\Pozdravlyator\bin\Debug\net9.0\Pozdravlyator.deps.json
+C:\Users\User\Pozdravlyator\bin\Debug\net9.0\Pozdravlyator.runtimeconfig.json
+C:\Users\User\Pozdravlyator\bin\Debug\net9.0\Pozdravlyator.dll
+C:\Users\User\Pozdravlyator\bin\Debug\net9.0\Pozdravlyator.pdb
+C:\Users\User\Pozdravlyator\obj\Debug\net9.0\Pozdravlyator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Pozdravlyator\obj\Debug\net9.0\Pozdravlyator.AssemblyInfoInputs.cache
+C:\Users\User\Pozdravlyator\obj\Debug\net9.0\Pozdravlyator.AssemblyInfo.cs
+C:\Users\User\Pozdravlyator\obj\Debug\net9.0\Pozdravlyator.csproj.CoreCompileInputs.cache
+C:\Users\User\Pozdravlyator\obj\Debug\net9.0\Pozdravlyator.dll
+C:\Users\User\Pozdravlyator\obj\Debug\net9.0\refint\Pozdravlyator.dll
+C:\Users\User\Pozdravlyator\obj\Debug\net9.0\Pozdravlyator.pdb
+C:\Users\User\Pozdravlyator\obj\Debug\net9.0\Pozdravlyator.genruntimeconfig.cache
+C:\Users\User\Pozdravlyator\obj\Debug\net9.0\ref\Pozdravlyator.dll
